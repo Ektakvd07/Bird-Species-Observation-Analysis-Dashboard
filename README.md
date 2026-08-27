@@ -1,9 +1,9 @@
-# Bird Monitoring Analysis Dashboard
+# Bird Species Observation Analysis Dashboard
 
 ## Files
 - app.py
-- Bird_Monitoring_Data_FOREST_CLEANED(2).xlsx
-- Bird_Monitoring_Data_GRASSLAND_CLEANED(2).xlsx
+- Bird_Monitoring_Data_FOREST_CLEANED.xlsx
+- Bird_Monitoring_Data_GRASSLAND_CLEANED.xlsx
 - requirements.txt
 
 ## Run locally
